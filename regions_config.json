@@ -1,0 +1,58 @@
+{
+    "cameras": {
+        "cam_1": {
+            "video_width": 640,
+            "video_height": 720,
+            "detection_regions": [
+                [
+                    [
+                        164,
+                        114
+                    ],
+                    [
+                        7,
+                        629
+                    ],
+                    [
+                        576,
+                        627
+                    ],
+                    [
+                        595,
+                        78
+                    ],
+                    [
+                        174,
+                        91
+                    ]
+                ]
+            ],
+            "shield_regions": []
+        },
+        "office_wide": {
+            "video_width": 640,
+            "video_height": 720,
+            "detection_regions": [
+                [
+                    [
+                        162,
+                        88
+                    ],
+                    [
+                        13,
+                        584
+                    ],
+                    [
+                        619,
+                        545
+                    ],
+                    [
+                        592,
+                        72
+                    ]
+                ]
+            ],
+            "shield_regions": []
+        }
+    }
+}
